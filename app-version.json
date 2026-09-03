@@ -1,8 +1,8 @@
 {
-  "version": "2.0.32",
-  "versionCode": 33,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.32/Aham.Fit-2.0.32.apk",
-  "sha256": "71927e9e6b899ab07a15ca732f1f158c632ca860d48e2df4c4f13d11b364c0cd",
-  "size": 57806504,
-  "notes": "Aham.Fit 2.0.32 - tap Download to install over your current build."
+  "version": "2.0.33",
+  "versionCode": 34,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.33/Aham.Fit-2.0.33.apk",
+  "sha256": "e41be1868fc17c5114a00ca0f26b50f86368129d20f23150b9e65d6f694a3eb2",
+  "size": 57807068,
+  "notes": "Aham.Fit 2.0.33 - Coach tab replaces Diary shortcut; full Diary still from Today meals / Log / Progress."
 }
