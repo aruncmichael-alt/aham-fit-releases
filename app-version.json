@@ -1,8 +1,8 @@
 {
-  "version": "2.0.26",
-  "versionCode": 27,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.26/Aham.Fit-2.0.26.apk",
-  "sha256": "b6aa6c363cadbe4ffad343c25e1816fa952cf59e3c1d8849631948a8b0cd49dc",
-  "size": 57758060,
-  "notes": "Wearables sync fix + diary/nav day-canvas polish. Health Connect stays free."
+  "version": "2.0.27",
+  "versionCode": 28,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.27/Aham.Fit-2.0.27.apk",
+  "sha256": "24129f0cd223083de72af349444773d3267afce5309de4881019984e027aa460",
+  "size": 57767784,
+  "notes": "Wearables hub harden: HC install/status, hub permission model copy, stable sync statuses. Health Connect stays free."
 }
