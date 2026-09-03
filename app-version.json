@@ -1,8 +1,8 @@
 {
-  "version": "2.0.19",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.19/Aham.Fit-2.0.19.apk",
-  "sha256": "085cf334e641477b7ebd7fbcb61f7974fc165ea9ae3559f7f0cdbb9fae474449",
-  "size": 57723120,
-  "notes": "Dark theme default + Appearance settings. In-app update dual-fetch (Pages + GitHub + API) so notifies work when Pages lags. Includes 2.0.18 search/portion."
+    "version":  "2.0.20",
+    "versionCode":  21,
+    "apkUrl":  "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.20/Aham.Fit-2.0.20.apk",
+    "sha256":  "89dc3e2b354fbfb7c158e6c51f4fc0179d85e328d624a9d8b4e49e664c7c8abe",
+    "size":  57723288,
+    "notes":  "Hardened in-app update (aham.fit + pages.dev + GitHub + API). Dark theme / Appearance from 2.0.19. Install over current build."
 }
