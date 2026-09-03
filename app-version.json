@@ -1,8 +1,8 @@
 {
-  "version": "2.0.28",
-  "versionCode": 29,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.28/Aham.Fit-2.0.28.apk",
-  "sha256": "f5d7b427a71a596d3e46a34c427d10af56892969a4b09cd53700733bc9d118d6",
-  "size": 57797296,
-  "notes": "Coach chat: keyboard-safe composer, voice mic dictation, session Speak replies (off by default)."
+  "version": "2.0.30",
+  "versionCode": 31,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.30/Aham.Fit-2.0.30.apk",
+  "sha256": "e98447fe9ce52129d08db7c1a828c305898dbbf252a1f34088b2c9d8db5d7802",
+  "size": 57802460,
+  "notes": "Custom macros MFP-style % steppers and presets; Coach keyboard/voice/Speak; wearables Today uses your local calendar day."
 }
