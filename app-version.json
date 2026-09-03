@@ -1,8 +1,8 @@
 {
-  "version": "2.0.25",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.25/Aham.Fit-2.0.25.apk",
-  "sha256": "180709c5d4a863fd54f66b55222338430f78036647572075e2c8fdf9f0564508",
-  "size": 57757800,
-  "notes": "Wearables sync fix: Health Connect permissions and auth-gated sync. Free as always."
+  "version": "2.0.26",
+  "versionCode": 27,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.26/Aham.Fit-2.0.26.apk",
+  "sha256": "b6aa6c363cadbe4ffad343c25e1816fa952cf59e3c1d8849631948a8b0cd49dc",
+  "size": 57758060,
+  "notes": "Date-consistent Diary day canvas (water/activity/weight on any day), Plus hub discovery, week strip, day motion, Progress DateNav."
 }
