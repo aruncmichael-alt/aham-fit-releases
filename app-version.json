@@ -1,7 +1,7 @@
 {
-  "version": "2.0.29",
-  "versionCode": 30,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.29/Aham.Fit-2.0.29.apk",
+  "version": "2.0.28",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.28/Aham.Fit-2.0.28.apk",
   "sha256": "f5d7b427a71a596d3e46a34c427d10af56892969a4b09cd53700733bc9d118d6",
   "size": 57797296,
   "notes": "Coach chat: keyboard-safe composer, voice mic dictation, session Speak replies (off by default)."
