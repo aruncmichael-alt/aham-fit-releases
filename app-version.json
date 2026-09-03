@@ -1,8 +1,8 @@
 {
-  "version": "2.0.18",
-  "versionCode": 19,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.18/Aham.Fit-2.0.18.apk",
-  "sha256": "4e3f0d9ca060d3dfa8d555f8b7c309af7357263f288ac447abc4ed609e96fd8c",
-  "size": 57712916,
-  "notes": "Search debounce 200ms; portion pack expand (1-unit chips + pack hint). Includes 2.0.17 Log UX and 2.0.16 Coach."
+  "version": "2.0.19",
+  "versionCode": 20,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.19/Aham.Fit-2.0.19.apk",
+  "sha256": "085cf334e641477b7ebd7fbcb61f7974fc165ea9ae3559f7f0cdbb9fae474449",
+  "size": 57723120,
+  "notes": "Dark theme default + Appearance settings. In-app update dual-fetch (Pages + GitHub + API) so notifies work when Pages lags. Includes 2.0.18 search/portion."
 }
