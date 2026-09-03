@@ -1,8 +1,8 @@
 {
-  "version": "2.0.30",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.30/Aham.Fit-2.0.30.apk",
-  "sha256": "e98447fe9ce52129d08db7c1a828c305898dbbf252a1f34088b2c9d8db5d7802",
-  "size": 57802460,
-  "notes": "Custom macros MFP-style % steppers and presets; Coach keyboard/voice/Speak; wearables Today uses your local calendar day."
+  "version": "2.0.31",
+  "versionCode": 32,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.31/Aham.Fit-2.0.31.apk",
+  "sha256": "e80745ea6c70b0a7a145baf3936ea2cb9522832f587765b11d212957ed9699b7",
+  "size": 57803532,
+  "notes": "Aham.Fit 2.0.31 - tap Download to install over your current build."
 }
