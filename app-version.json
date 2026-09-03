@@ -1,8 +1,8 @@
 {
-  "version": "2.0.31",
-  "versionCode": 32,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.31/Aham.Fit-2.0.31.apk",
-  "sha256": "e80745ea6c70b0a7a145baf3936ea2cb9522832f587765b11d212957ed9699b7",
-  "size": 57803532,
-  "notes": "Aham.Fit 2.0.31 - tap Download to install over your current build."
+  "version": "2.0.32",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.32/Aham.Fit-2.0.32.apk",
+  "sha256": "71927e9e6b899ab07a15ca732f1f158c632ca860d48e2df4c4f13d11b364c0cd",
+  "size": 57806504,
+  "notes": "Aham.Fit 2.0.32 - tap Download to install over your current build."
 }
