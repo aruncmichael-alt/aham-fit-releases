@@ -1,8 +1,8 @@
 {
-  "version": "2.0.21",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.21/Aham.Fit-2.0.21.apk",
-  "sha256": "aaeb3221c2aba1b6d29a5a02e3f48c4fbbc9141992a88af0a6ab2df74893c7af",
-  "size": 57724636,
-  "notes": "P2 UX: Coach quota display, diary More menu, skeleton loaders, coach scroll. Backend search latency and relevance improvements. Dark theme and hardened in-app update checks from prior releases. Install over your current build."
+  "version": "2.0.22",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.22/Aham.Fit-2.0.22.apk",
+  "sha256": "238f6663441c8643240c4a7024ddc44af8af4f3df6f22215897dee9b5af2c573",
+  "size": 57727160,
+  "notes": "Readable meal chips (no BLDS), snappier search with stable results while typing, cleaner Log screen, double-tap Log guard."
 }
