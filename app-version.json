@@ -1,8 +1,8 @@
 {
-  "version": "2.0.22",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.22/Aham.Fit-2.0.22.apk",
-  "sha256": "238f6663441c8643240c4a7024ddc44af8af4f3df6f22215897dee9b5af2c573",
-  "size": 57727160,
-  "notes": "Readable meal chips (no BLDS), snappier search with stable results while typing, cleaner Log screen, double-tap Log guard."
+  "version": "2.0.23",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.23/Aham.Fit-2.0.23.apk",
+  "sha256": "159b1958363aaed49c17f7c630db9cca51eb71964d919db6b11a4362a30d725a",
+  "size": 57729980,
+  "notes": "Coach chat orientation fix, recipe/quick-add Log guards, smarter offline queue, safer Razorpay checkout links."
 }
