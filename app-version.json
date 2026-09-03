@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.21/Aham.Fit-2.0.21.apk",
   "sha256": "aaeb3221c2aba1b6d29a5a02e3f48c4fbbc9141992a88af0a6ab2df74893c7af",
   "size": 57724636,
-  "notes": "Faster food search (curated fast-path, P1 latency). Coach quota label, diary More menu, chat scroll fix, skeleton loaders. Install over 2.0.20."
+  "notes": "P2 UX: Coach quota display, diary More menu, skeleton loaders, coach scroll. Backend search latency and relevance improvements. Dark theme and hardened in-app update checks from prior releases. Install over your current build."
 }
