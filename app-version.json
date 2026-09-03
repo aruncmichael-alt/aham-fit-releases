@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.26/Aham.Fit-2.0.26.apk",
   "sha256": "b6aa6c363cadbe4ffad343c25e1816fa952cf59e3c1d8849631948a8b0cd49dc",
   "size": 57758060,
-  "notes": "Date-consistent Diary day canvas (water/activity/weight on any day), Plus hub discovery, week strip, day motion, Progress DateNav."
+  "notes": "Wearables sync fix + diary/nav day-canvas polish. Health Connect stays free."
 }
