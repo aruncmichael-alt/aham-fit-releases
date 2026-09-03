@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.20",
-    "versionCode":  21,
-    "apkUrl":  "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.20/Aham.Fit-2.0.20.apk",
-    "sha256":  "89dc3e2b354fbfb7c158e6c51f4fc0179d85e328d624a9d8b4e49e664c7c8abe",
-    "size":  57723288,
-    "notes":  "Hardened in-app update (aham.fit + pages.dev + GitHub + API). Dark theme / Appearance from 2.0.19. Install over current build."
+  "version": "2.0.21",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.21/Aham.Fit-2.0.21.apk",
+  "sha256": "aaeb3221c2aba1b6d29a5a02e3f48c4fbbc9141992a88af0a6ab2df74893c7af",
+  "size": 57724636,
+  "notes": "Faster food search (curated fast-path, P1 latency). Coach quota label, diary More menu, chat scroll fix, skeleton loaders. Install over 2.0.20."
 }
