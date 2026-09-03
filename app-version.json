@@ -1,8 +1,8 @@
 {
-  "version": "2.0.24",
-  "versionCode": 25,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.24/Aham.Fit-2.0.24.apk",
-  "sha256": "8fa048164b66e389fe2b83879469cab88ae485f00d96489497b6e11abca9eeb8",
-  "size": 57737556,
-  "notes": "Friendlier offline and error messages across Log, Diary, Coach, and auth — no more technical fetch/API text."
+  "version": "2.0.25",
+  "versionCode": 26,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.25/Aham.Fit-2.0.25.apk",
+  "sha256": "180709c5d4a863fd54f66b55222338430f78036647572075e2c8fdf9f0564508",
+  "size": 57757800,
+  "notes": "Wearables sync fix: Health Connect permissions and auth-gated sync. Free as always."
 }
