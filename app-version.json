@@ -1,8 +1,8 @@
 {
-  "version": "2.0.36",
-  "versionCode": 37,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.36/Aham.Fit-2.0.36.apk",
-  "sha256": "1f1e0edf90afd4953b2a55414083b58449fd7f63c0807b441f127ce619c19d85",
-  "size": 57819108,
-  "notes": "Aham.Fit 2.0.36 - Pending clear: Coach badge, meal-confirm Ask Coach, Diary tip, 14d compare labels. Includes 2.0.35 UX quality polish."
+  "version": "2.0.37",
+  "versionCode": 38,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.37/Aham.Fit-2.0.37.apk",
+  "sha256": "6e4140945e0f6234b55dde7f88147cdb96505cc96e8c37f3faf6afaab6abba20",
+  "size": 57820904,
+  "notes": "Aham.Fit 2.0.37 - Diary Log again + stronger day swipe. Includes 2.0.35-36 UX quality polish."
 }
