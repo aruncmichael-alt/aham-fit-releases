@@ -1,8 +1,8 @@
 {
-  "version": "2.0.43",
-  "versionCode": 44,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.43/Aham.Fit-2.0.43.apk",
-  "sha256": "d278b987442d6cf3847e6e3417915ce9f893e8643da9982c394e9e454a03fd97",
-  "size": 57835748,
-  "notes": "Coach multi-day Plan my week (2-7 days) + B/L/D slots + grocery-lite. Macros from catalog engines only."
+  "version": "2.0.44",
+  "versionCode": 45,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.44/Aham.Fit-2.0.44.apk",
+  "sha256": "f4e5960b0d8ed64b9d22ad501cb0aaab4c7dd9a7279b500d22ef3edcff4dec5b",
+  "size": 57842356,
+  "notes": "Coach propose_target_update with Confirm; Wikibooks sample; diary/today audit fixes."
 }
