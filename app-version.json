@@ -1,8 +1,8 @@
 {
-  "version": "2.0.37",
-  "versionCode": 38,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.37/Aham.Fit-2.0.37.apk",
-  "sha256": "6e4140945e0f6234b55dde7f88147cdb96505cc96e8c37f3faf6afaab6abba20",
-  "size": 57820904,
-  "notes": "Aham.Fit 2.0.37 - Diary Log again + stronger day swipe. Includes 2.0.35-36 UX quality polish."
+  "version": "2.0.38",
+  "versionCode": 39,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.38/Aham.Fit-2.0.38.apk",
+  "sha256": "a2e2df4fe87f1b8a9e6f15888132665603ba12ca1f3df41d792ecef777612e75",
+  "size": 57830168,
+  "notes": "Coach verified recipe cards + one-tap Log/Save."
 }
