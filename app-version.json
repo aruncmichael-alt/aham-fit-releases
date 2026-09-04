@@ -1,8 +1,8 @@
 {
-  "version": "2.0.40",
-  "versionCode": 41,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.40/Aham.Fit-2.0.40.apk",
-  "sha256": "57592af9cd574a4e5419a6a42bb12619b3f063e36dcd3ca7b8af990bbfd46bd2",
-  "size": 57830884,
-  "notes": "Today swipe reliability + Coach tomorrow meal-plan (recipes, not diary dump)."
+  "version": "2.0.41",
+  "versionCode": 42,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.41/Aham.Fit-2.0.41.apk",
+  "sha256": "5abf600cab6f9d64c9bb8c4f3cfc6f1757e80d19c324b1b12d600208c8fe00e8",
+  "size": 57831544,
+  "notes": "Day swipe shares scroll gesture arena; Coach meal-plan rules never dump diary."
 }
