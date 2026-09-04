@@ -1,8 +1,8 @@
 {
-  "version": "2.0.45",
-  "versionCode": 46,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.45/Aham.Fit-2.0.45.apk",
-  "sha256": "660fdec3eee5d965001db6e4b9186022a7864a4877738a8312e3fa2a7d4e093f",
-  "size": 57843228,
-  "notes": "Bugsweep Wave B: client_today TZ, tomorrow Log + diary +1, swipe race/gestures, orphan checkout fix. Week plan = 7 days."
+  "version": "2.0.46",
+  "versionCode": 47,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.46/Aham.Fit-2.0.46.apk",
+  "sha256": "dd20b7b188bf5bc2967a271b50f182363eac54a58558ab59ee68c875f5570458",
+  "size": 57846192,
+  "notes": "Day notes on Today/Diary — optional per-day text (MFP/Yazio parity)."
 }
