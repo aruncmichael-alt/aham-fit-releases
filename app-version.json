@@ -1,8 +1,8 @@
 {
-  "version": "2.0.41",
-  "versionCode": 42,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.41/Aham.Fit-2.0.41.apk",
-  "sha256": "5abf600cab6f9d64c9bb8c4f3cfc6f1757e80d19c324b1b12d600208c8fe00e8",
-  "size": 57831544,
-  "notes": "Day swipe shares scroll gesture arena; Coach meal-plan rules never dump diary."
+  "version": "2.0.42",
+  "versionCode": 43,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.42/Aham.Fit-2.0.42.apk",
+  "sha256": "a18b3c41007bd920b23fcb7e36da430be0a13247ce86580b930fcd3d0af7f3b2",
+  "size": 57833536,
+  "notes": "Coach meal-plan Breakfast/Lunch/Dinner slots + grocery-lite. Macros from catalog engines only."
 }
