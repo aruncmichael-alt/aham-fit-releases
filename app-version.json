@@ -1,8 +1,8 @@
 {
-  "version": "2.0.34",
-  "versionCode": 35,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.34/Aham.Fit-2.0.34.apk",
-  "sha256": "8999bd7173b9395ed9e31fc8b228ba3f1ea0b6d91048707b1a94704934137394",
-  "size": 57809436,
-  "notes": "Aham.Fit 2.0.34 - Restore Progress lose/gain rate slider (0.25 kg steps), live calorie preview, weight-goal calorie audit. Includes Coach tab from 2.0.33."
+  "version": "2.0.35",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.35/Aham.Fit-2.0.35.apk",
+  "sha256": "64e67dad5525193664ce7f1e0140e20ddd8b9d9cae17850191c90d910dfc4a4d",
+  "size": 57816036,
+  "notes": "Aham.Fit 2.0.35 - UX quality ship: log date honesty + Jump to today, Open diary findability, first-session tip, search/day stale cues, Progress day taps, human Coach quota copy, quick-log View diary/Undo, confirm day labels, sanitized health errors."
 }
