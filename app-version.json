@@ -1,8 +1,8 @@
 {
-  "version": "2.0.38",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.38/Aham.Fit-2.0.38.apk",
-  "sha256": "a2e2df4fe87f1b8a9e6f15888132665603ba12ca1f3df41d792ecef777612e75",
-  "size": 57830168,
-  "notes": "Coach verified recipe cards + one-tap Log/Save."
+  "version": "2.0.39",
+  "versionCode": 40,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.39/Aham.Fit-2.0.39.apk",
+  "sha256": "9990d923fdb3fd324365a7092d4e42264f7d8ff12c0ee33ea2620503630f0e02",
+  "size": 57830880,
+  "notes": "Verified recipes P1: 142 plates, Coach reroll/cuisine, More recipes."
 }
