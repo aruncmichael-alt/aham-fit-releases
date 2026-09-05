@@ -1,8 +1,8 @@
 {
-  "version": "2.0.47",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.47/Aham.Fit-2.0.47.apk",
-  "sha256": "fad5027178e4ee867df92fff06e9efa0d5f41fd6e4728dfa87ef8e5b18029830",
-  "size": 57912772,
-  "notes": "Coach hub"
+  "version": "2.0.48",
+  "versionCode": 49,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.48/Aham.Fit-2.0.48.apk",
+  "sha256": "365053a807da1da443967c4a72ca15139dec1e0e69c54e223905c549c29de766",
+  "size": 57914984,
+  "notes": "Kitchen recipes and Ask Coach finish the open dish."
 }
