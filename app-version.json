@@ -1,8 +1,8 @@
 {
-  "version": "2.0.48",
-  "versionCode": 49,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.48/Aham.Fit-2.0.48.apk",
-  "sha256": "365053a807da1da443967c4a72ca15139dec1e0e69c54e223905c549c29de766",
-  "size": 57914984,
-  "notes": "Kitchen recipes and Ask Coach finish the open dish."
+  "version": "2.0.49",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.49/Aham.Fit-2.0.49.apk",
+  "sha256": "661e34a9c9e221f5f874b640c5255a4e42f12470a8d39f18766e159c6471656d",
+  "size": 57917484,
+  "notes": "Train gym guide: open-licensed form pictures and videos."
 }
