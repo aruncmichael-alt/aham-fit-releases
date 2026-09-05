@@ -1,8 +1,8 @@
 {
-  "version": "2.0.49",
-  "versionCode": 50,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.49/Aham.Fit-2.0.49.apk",
-  "sha256": "661e34a9c9e221f5f874b640c5255a4e42f12470a8d39f18766e159c6471656d",
-  "size": 57917484,
-  "notes": "Train gym guide: open-licensed form pictures and videos."
+  "version": "2.0.50",
+  "versionCode": 51,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.50/Aham.Fit-2.0.50.apk",
+  "sha256": "187a5746db62f96f329a5892795635315b98b453f4975f4f6eb016d681cf81ce",
+  "size": 57924665,
+  "notes": "Fix Coach and food voice typing: reliable mic URI, audio session reset, Whisper MIME."
 }
