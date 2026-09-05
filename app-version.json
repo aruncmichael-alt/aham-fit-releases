@@ -1,8 +1,8 @@
 {
-  "version": "2.0.50",
-  "versionCode": 51,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.50/Aham.Fit-2.0.50.apk",
-  "sha256": "187a5746db62f96f329a5892795635315b98b453f4975f4f6eb016d681cf81ce",
-  "size": 57924665,
-  "notes": "Fix Coach and food voice typing: reliable mic URI, audio session reset, Whisper MIME."
+  "version": "2.0.51",
+  "versionCode": 52,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.51/Aham.Fit-2.0.51.apk",
+  "sha256": "4f11f78f361429368576d7a04ebffd4c4cd480ab060c2cd4765108b522446d09",
+  "size": 57919212,
+  "notes": "Fix plate photo food logging on Android."
 }
