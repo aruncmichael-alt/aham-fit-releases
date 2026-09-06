@@ -1,8 +1,8 @@
 {
-  "version": "2.0.52",
-  "versionCode": 53,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.52/Aham.Fit-2.0.52.apk",
-  "sha256": "9643c6f5cdf2dffd1aa3d0f1689b14a8ba3cb1f8ba4d821605daed88d3d22838",
-  "size": 57926100,
-  "notes": "Fix login: APK calls production API again."
+  "version": "2.0.54",
+  "versionCode": 55,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.54/Aham.Fit-2.0.54.apk",
+  "sha256": "8dcc88bbf115ab36ffe1a9b4ceaa6574662695b752b20c3d7f884f9bc185e831",
+  "size": 57927652,
+  "notes": "Full audit-fix: day-swipe activity Undo gate, photo/voice error copy, Coach history errors, search zero CTAs."
 }
