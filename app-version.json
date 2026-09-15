@@ -1,8 +1,8 @@
 {
-  "version": "2.0.55",
-  "versionCode": 56,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.55/Aham.Fit-2.0.55.apk",
-  "sha256": "9b0b3c9aea59b4565014282b98ad33b625b0caed66db9dd5445218269c435f55",
-  "size": 57930572,
-  "notes": "Household default servings (egg white, biryani plate), search polish, day-swipe vs pull-refresh, lightweight day motion."
+  "version": "2.0.56",
+  "versionCode": 57,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.56/Aham.Fit-2.0.56.apk",
+  "sha256": "858b0f851791f0d4ec2431829d1d31d4b8ccb991f0b884ec8cdc0ff93998a371",
+  "size": 57933180,
+  "notes": "Fix false Saved toast, favorites last portion, own custom search."
 }
