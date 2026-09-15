@@ -1,8 +1,8 @@
 {
-  "version": "2.0.56",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.56/Aham.Fit-2.0.56.apk",
-  "sha256": "858b0f851791f0d4ec2431829d1d31d4b8ccb991f0b884ec8cdc0ff93998a371",
-  "size": 57933180,
-  "notes": "Fix false Saved toast, favorites last portion, own custom search."
+  "version": "2.0.57",
+  "versionCode": 58,
+  "apkUrl": "https://github.com/aruncmichael-alt/aham-fit-releases/releases/download/v2.0.57/Aham.Fit-2.0.57.apk",
+  "sha256": "95fb4ac9d7216b3877cf4fdf89e1ed6db66d7669bbd9175907bbfca339502fd9",
+  "size": 57938452,
+  "notes": "Tap + to quick-log; tap food to set quantity in a sheet."
 }
